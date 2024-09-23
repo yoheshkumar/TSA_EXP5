@@ -81,48 +81,22 @@ plt.tight_layout()
 plt.show()
 
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### OUTPUT:
-FIRST FIVE ROWS:
+
+#### FIRST FIVE ROWS:
 ![image](https://github.com/user-attachments/assets/a4f008fc-2e97-48f1-a412-93f513012d82)
 
-
-
-
-PLOTTING THE DATA:
+#### PLOTTING THE DATA:
 ![image](https://github.com/user-attachments/assets/4a94d994-c9bd-452c-9ef1-34bf8efab557)
 
-
-SEASONAL PLOT REPRESENTATION :
+#### SEASONAL PLOT REPRESENTATION :
 ![image](https://github.com/user-attachments/assets/ac4230f9-ffa7-4dda-a6f7-e6e352d0af5d)
 
-
-
-
-TREND PLOT REPRESENTATION :
+#### TREND PLOT REPRESENTATION :
 ![image](https://github.com/user-attachments/assets/536afa30-f7c5-43d8-99b8-bf64637e5687)
 
-
-OVERAL REPRESENTATION:
+#### OVERAL REPRESENTATION:
 ![image](https://github.com/user-attachments/assets/2a456b7a-efac-4df2-bfe6-a14792497bfd)
-
-
-
 
 ### RESULT:
 Thus we have created the python code for the time series analysis and decomposition.
